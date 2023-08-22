@@ -37,4 +37,4 @@ let num2: number;
 num1 = 122;
 num2 = 456;
 
-console.log(num1 + num2);
+console.log(num1 + num2);s
